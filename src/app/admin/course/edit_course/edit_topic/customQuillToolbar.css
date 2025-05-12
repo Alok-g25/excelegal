@@ -1,0 +1,17 @@
+.custom-quill-editor .ql-toolbar .ql-picker-label {
+    color: white; /* Change this to your desired color */
+  }
+  
+  .custom-quill-editor .ql-toolbar .ql-stroke {
+    stroke: white; /* Change this to your desired color */
+  }
+  
+  .custom-quill-editor .ql-toolbar .ql-fill {
+    fill: white; /* Change this to your desired color */
+  }
+  /* .custom-quill-editor .ql-toolbar{
+    border: 2px solid yellow;
+    border-radius: 5px;
+    
+  }
+   */

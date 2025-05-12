@@ -1,0 +1,79 @@
+export const LOGIN_ACTION = `LOGIN_ACTION`
+export const LOGOUT = `LOGOUT_ACTION`
+
+export const GET_PROFILE='GET_PROFILE'
+export const GET_PROFILE_RED="GET_PROFILE_RED"
+export const EDIT_PROFILE="EDIT_PROFILE"
+export const CHANGE_PASSWORD="CHANGE_PASSWORD"
+
+//category
+
+export const ADD_CATEGORY="ADD_CATEGORY";
+export const LIST_CATEGORY="LIST_CATEGORY";
+export const LIST_CATEGORY_RED="LIST_CATEGORY_RED";
+export const UPDATE_CATEGORY="UPDATE_CATEGORY";
+export const DELETE_CATEGORY="DELETE_CATEGORY";
+export const GET_SINGLE_CATEGORY="GET_SINGLE_CATEGORY"
+
+//staff
+export const ADD_STAFF="ADD_STAFF"
+export const GET_STAFF="GET_STAFF"
+export const LIST_STAFF_RED="LIST_CATEGORY_RED";
+export const SINGLE_STAFF="SINGLE_STAFF"
+export const DELETE_STAFF="DELETE_STAFF"
+export const UPDATE_STAFF="UPDATE_STAFF"
+
+
+//course
+export const ADD_COURSE="ADD_COURSE"
+export const GET_COURSE="GET_COURSE"
+export const SINGLE_COURSE="SINGLE_COURSE"
+export const DELETE_COURSE="DELETE_COURSE"
+export const UPDATE_COURSE="UPDATE_COURSE"
+export const COURSE_REDUCER="COURSE_REDUCER"
+
+
+// topic 
+export const ADD_TOPIC="ADD_TOPIC"
+export const GET_TOPIC="GET_TOPIC"
+export const SINGLE_TOPIC="SINGLE_TOPIC"
+export const DELETE_TOPIC="DELETE_TOPIC"
+export const UPDATE_TOPIC="UPDATE_TOPIC"
+
+
+//question
+export const ADD_QUESTION="ADD_QUESTION"
+export const GET_QUESTION="GET_QUESTION"
+export const LIST_QUESTION_RED="LIST_QUESTION_RED";
+
+export const SINGLE_QUESTION="SINGLE_QUESTION"
+export const DELETE_QUESTION="DELETE_QUESTION"
+export const UPDATE_QUESTION="UPDATE_QUESTION"
+
+//quiz
+export const ADD_QUIZ="ADD_QUIZ"
+export const GET_QUIZ="GET_QUIZ"
+export const SINGLE_QUIZ="SINGLE_QUIZ"
+export const DELETE_QUIZ="DELETE_QUIZ"
+export const UPDATE_QUIZ="UPDATE_QUIZ"
+export const APPROVAL="APPROVAL";
+
+
+// find question by course
+export  const QUESTION_BY_COURSE="QUESTION_BY_COURSE"
+
+
+
+//Banner
+export const ADD_BANNER="ADD_BANNER"
+export const GET_BANNER="GET_BANNER"
+export const SINGLE_BANNER="SINGLE_BANNER"
+export const DELETE_BANNER="DELETE_BANNER"
+export const UPDATE_BANNER="UPDATE_BANNER"
+
+
+// student 
+export const GET_STUDENT="GET_STUDENT"
+
+// ENQUIRY_DETAILS 
+export const GET_ENQUIRY_DETAILS="GET_ENQUIRY_DETAILS"
